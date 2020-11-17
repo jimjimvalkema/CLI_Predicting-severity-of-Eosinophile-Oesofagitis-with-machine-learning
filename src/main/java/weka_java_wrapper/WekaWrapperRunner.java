@@ -3,7 +3,7 @@
  * All rights reserved
  */
 
-package WekaJavaWrapper;
+package weka_java_wrapper;
 
 import weka.classifiers.meta.Stacking;
 import weka.core.Instances;

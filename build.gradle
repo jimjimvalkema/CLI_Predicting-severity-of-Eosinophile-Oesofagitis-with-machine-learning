@@ -29,6 +29,6 @@ dependencies {
 
 jar {
     manifest {
-        attributes "Main-Class": "WekaJavaWrapper.WekaWrapperRunner"
+        attributes "Main-Class": "weka_java_wrapper.WekaWrapperRunner"
     }
 }

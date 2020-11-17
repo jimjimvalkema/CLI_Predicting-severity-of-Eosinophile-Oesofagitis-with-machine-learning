@@ -3,7 +3,7 @@
  * All rights reserved
  * www.bioinf.nl, www.cellingo.net
  */
-package WekaJavaWrapper;
+package weka_java_wrapper;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;

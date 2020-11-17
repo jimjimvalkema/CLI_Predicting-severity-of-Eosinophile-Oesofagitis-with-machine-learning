@@ -2,8 +2,7 @@
   
 ## how to use the commandline interface of the model  
 
-To run the program as a .jar:  
-download this entire folder: jars/latest/  
+To run the program as a .jar download this entire folder: jars/latest/  
 
 Then go to the folder where you saved the libs folder and type the following in the terminal to run on the test csv file.   
 Or change folder path after the "-f" flag to classify your own csv  

@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"WekaJavaWrapper"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"weka_java_wrapper"}]
